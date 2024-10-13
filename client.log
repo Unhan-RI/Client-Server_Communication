@@ -1,0 +1,6 @@
+[2024-10-13 21:46:36.196046] Koneksi dibuka ke server 192.168.56.1:50000 (waktu koneksi: 0:00:00)
+[2024-10-13 21:46:38.370425] Pesan dikirim: hi (waktu pengiriman: 0:00:00)
+[2024-10-13 21:46:38.385573] Respons diterima: Pesan diterima oleh server (waktu penerimaan: 0:00:02.189527)
+[2024-10-13 21:46:39.825593] Pesan dikirim:  (waktu pengiriman: 0:00:00)
+[2024-10-13 21:46:50.391866] Pesan dikirim: hello (waktu pengiriman: 0:00:00)
+[2024-10-13 21:46:50.407499] Respons diterima: Pesan diterima oleh server (waktu penerimaan: 0:00:12.021926)
